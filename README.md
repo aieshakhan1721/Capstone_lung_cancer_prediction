@@ -136,6 +136,6 @@ Record the actual results obtained when you run the code. Do not assume that a p
 - Examine feature importance and model interpretability.
 - Evaluate class imbalance and compare with a majority-class baseline.
 
-
+## App url: https://capstonelungcancerprediction-lkasp5vwpqkcx3vrfkahzy.streamlit.app/
 ## Author
 Ayesha Shaik

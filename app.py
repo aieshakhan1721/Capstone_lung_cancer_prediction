@@ -51,7 +51,7 @@ except FileNotFoundError:
 # --------------------------------------------------
 @st.cache_resource
 def load_model():
-    return joblib.load("lung_cancer_logistic_model.joblib")
+    return joblib.load("lung_cancer_model.joblib")
 
 
 try:
